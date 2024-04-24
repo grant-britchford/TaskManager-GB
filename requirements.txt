@@ -1,1 +1,3 @@
-# Your requirements go here
+sqlalchemy==1.4.46
+psycopg2
+Flask-SQLAlchemy
